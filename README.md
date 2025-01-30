@@ -2,7 +2,7 @@
 
 Code built while following the official [React tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
 
-## Instrucitons
+## Instructions
 
 1. Clone the project
 2. Install the dependencies with `npm install`
